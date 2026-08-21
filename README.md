@@ -1,10 +1,10 @@
-# GemScript Collage
+# GemScript Collage V6
 
-Turn a photo into a V5 GemScript collage: a black-and-white vintage film print, Morandi paper background, multicolor rhinestone calligraphy, and an automatic 3:4 effect-plus-original composite.
+Turn a photo into a V6 GemScript collage: a small tightly cropped high-contrast black-and-white vintage film print, Morandi paper background, readable multicolor rhinestone calligraphy, controlled mixed-shape accents, required detached loose-gem clusters, and an optional 3:4 effect-plus-original composite.
 
 ## Download
 
-Download `create-gemscript-collage-v1.0.0.zip` from this repository.
+Download `create-gemscript-collage-v6.0.0.zip` from this repository.
 
 ## Install
 
